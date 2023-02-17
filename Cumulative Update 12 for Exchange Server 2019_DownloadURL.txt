@@ -1,0 +1,5 @@
+Cumulative Update 12 for Exchange Server 2019 (KB5011156)
+Download Cumulative Update 12 for Exchange Server 2019 (KB5011156) from Official Microsoft Download Center
+
+
+https://www.microsoft.com/en-us/download/details.aspx?id=104131

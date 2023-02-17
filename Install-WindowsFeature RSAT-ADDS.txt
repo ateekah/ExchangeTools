@@ -1,0 +1,3 @@
+#Open Powershell as administrator
+
+Install-WindowsFeature RSAT-ADDS
